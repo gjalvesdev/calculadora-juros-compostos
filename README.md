@@ -37,6 +37,14 @@ Basta dar um duplo-clique no arquivo ou arrastar para a janela do navegador.
 
 ---
 
+## Link para a aplicação
+
+Você pode testar a calculadora diretamente no seu navegador, acessando:
+
+🔗 [Calculadora de Juros Compostos](https://gamagot.github.io/calculadora-juros-compostos/)
+
+---
+
 ## 📦 Deploy no GitHub Pages
 1. No seu repositório, vá em Settings > Pages.
 
