@@ -45,17 +45,6 @@ Você pode testar a calculadora diretamente no seu navegador, acessando:
 
 ---
 
-## 📦 Deploy no GitHub Pages
-1. No seu repositório, vá em Settings > Pages.
-
-2. Em Source, selecione a branch main (ou master) e clique em Save.
-
-3. Aguarde alguns segundos — seu site estará disponível em:
-```bash
-https://<seu-usuário>.github.io/calculadora-juros-compostos/
-```
----
-
 ## 🎨 Layout
 <p align="center"> <img src="./imagem-calculadora.png" alt="Screenshot da calculadora" width="300"> </p>
 
