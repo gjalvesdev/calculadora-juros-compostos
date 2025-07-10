@@ -49,14 +49,19 @@ https://<seu-usuário>.github.io/calculadora-juros-compostos/
 ---
 
 ## 🎨 Layout
-<p align="center"> <img src="https://raw.githubusercontent.com/gamagot/calculadora-juros-compostos/main/screenshot.png" alt="Screenshot da calculadora" width="300"> </p>
+<p align="center"> <img src="./imagem-calculadora.png" alt="Screenshot da calculadora" width="300"> </p>
 
 ---
 
 ## ✍️ Autor
 Gabriel Alves
 🔗 https://github.com/gamagot
-📫 gabriel.dejesus.alves@gmail.com
+<h3 align="left">Contato:</h3>
+<p align="left">
+<a href="https://www.instagram.com/gabriel_magot/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""/></a>
+<a href="https://www.linkedin.com/in/gabriel-de-jesus-alves/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+</p>
+
 
 ---
 
