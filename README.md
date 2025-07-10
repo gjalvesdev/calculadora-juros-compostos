@@ -18,7 +18,7 @@ Uma pequena aplicação web que calcula o montante acumulado de um investimento 
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (ES6+)**  
+- **JavaScript**  
 
 ---
 
