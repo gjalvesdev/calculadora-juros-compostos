@@ -52,7 +52,7 @@ Você pode testar a calculadora diretamente no seu navegador, acessando:
 
 ## ✍️ Autor
 Gabriel Alves
-🔗 https://github.com/gamagot
+🔗 https://github.com/gjalvesdev
 <h3 align="left">Contato:</h3>
 <p align="left">
 <a href="https://www.instagram.com/gabriel_magot/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""/></a>
