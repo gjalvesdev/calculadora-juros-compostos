@@ -26,7 +26,7 @@ Uma pequena aplicação web que calcula o montante acumulado de um investimento 
 
 1. **Clone este repositório**  
    ```bash
-   git clone https://github.com/gamagot/calculadora-juros-compostos.git
+   git clone https://github.com/gjalvesdev/calculadora-juros-compostos.git
 
 2. **Abra o projeto**
    ```bash
